@@ -1,0 +1,8 @@
+{
+  "short_name": "SunPass",
+  "name": "SunPass Toll Manager",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0066cc",
+  "background_color": "#ffffff"
+}
