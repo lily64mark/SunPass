@@ -42,10 +42,10 @@ The goal of SunPass Toll Manager is to simplify toll expense organization while 
 ### Alex Carter
 
 Email:
-alex.carter.dev@example.com
+lily64mark@outlook.com
 
 Website:
-SunPass
+[SunPass](https://www.sunpass.com.co)
 
 
 ### Author Bio
